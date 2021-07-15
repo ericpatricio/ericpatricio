@@ -8,11 +8,11 @@
 - ⚡ Hobbies: I don't have one in particular, I just love to play with my kids and do handyman stuff around the house.
 
 ### Connect with me:
-<img align="left" alt="ericpatricio | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> (https://twitter.com/messages)
+<img align="left" alt="ericpatricio | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [twitter](https://twitter.com)
 <br />
-<img align="left" alt="ericpatricio | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> (https://www.linkedin.com/messaging/thread/2-ZTU5ZmE0MTYtY2Q4Mi00NmZhLTlhODEtODY1MjA3MTZmZjNjXzAxMg==/)
+<img align="left" alt="ericpatricio | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin](https://www.linkedin.com)
 <br />
-<img align="left" alt="ericpatricio | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> (https://www.instagram.com/direct/inbox/)
+<img align="left" alt="ericpatricio | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram](https://www.instagram.com)
 <br />
 
 ### Languages and Tools:
