@@ -9,9 +9,10 @@
 
 ### Connect with me:
 <img align="left" alt="ericpatricio | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> (https://twitter.com/messages)
+<br />
 <img align="left" alt="ericpatricio | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> (https://www.linkedin.com/messaging/thread/2-ZTU5ZmE0MTYtY2Q4Mi00NmZhLTlhODEtODY1MjA3MTZmZjNjXzAxMg==/)
+<br />
 <img align="left" alt="ericpatricio | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> (https://www.instagram.com/direct/inbox/)
-
 <br />
 
 ### Languages and Tools:
