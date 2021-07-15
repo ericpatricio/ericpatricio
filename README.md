@@ -2,7 +2,7 @@
 ### Hi there, I'm Eric - [website] 👋
 
 ## I'm a Husband, Father and Developer!
-- 🌱 I’m currently learning React JS, and practicing with HTML, CSS, JS, Bootstrap and SASS.🤣
+- 🌱 I’m currently learning React JS, and practicing with HTML, CSS, JS, Bootstrap and SASS
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn React JS, and everything I need to become a good developer.
 - ⚡ Hobbies: I don't have one in particular, I just love to play with my kids and do handyman stuff around the house.
