@@ -1,5 +1,5 @@
 
-### Hi there, I'm Eric - [website] 👋
+### Hi there, I'm Eric - [ericpatricio](https://ericpatricio.tech/) 👋
 
 ## I'm a Husband, Father and Developer!
 - 🌱 I’m currently learning React JS, and practicing with HTML, CSS, JS, Bootstrap and SASS
