@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Eric - [ericpatricio.tech](https://ericpatricio.tech/) 👋
 
-## I'm a Husband, Father and Front-end web Developer!
+## I'm a Husband, Father and Front-end web developer!
 - 🌱 I’m currently learning React JS, and practicing with HTML, CSS, JS, Bootstrap and SASS
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn React JS, and everything I need to become a good developer.
