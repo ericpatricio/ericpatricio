@@ -1,5 +1,5 @@
 
-### Hi there, I'm Eric - [ericpatricio.tech](https://ericpatricio.tech/) 👋
+### Hi there, I'm Eric 👋
 
 ## I'm a Husband, Father and Front-end web developer!
 - 🌱 I’m currently learning React JS, and practicing with HTML, CSS, JS, Bootstrap and SASS
