@@ -2,17 +2,17 @@
 ### Hi there, I'm Eric 👋
 
 ## I'm a Husband, Father and Front-end web developer!
-- 🌱 I’m currently learning React JS, and practicing with HTML, CSS, JS, Bootstrap and SASS
+- 🌱 I’m currently learning and practicing with HTML, CSS, JS, Bootstrap and SASS
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023 Goals: Become a good full stack developer.
 - ⚡ Spare time: I love to play with my kids and do handyman stuff around the house.
 
 ### Connect with me:
-<img align="left" alt="ericpatricio | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [twitter](https://twitter.com)
+<img align="left" alt="ericpatricio | Twitter" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [twitter](https://twitter.com/EricPatricio)
 <br />
-<img align="left" alt="ericpatricio | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin](https://www.linkedin.com)
+<img align="left" alt="ericpatricio | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [linkedin](https://www.linkedin.com/in/ericpatricio/)
 <br />
-<img align="left" alt="ericpatricio | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram](https://www.instagram.com)
+<img align="left" alt="ericpatricio | Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [instagram](https://www.instagram.com/ericwilmy/)
 <br />
 
 ### Languages and Tools:
