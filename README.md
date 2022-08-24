@@ -2,6 +2,7 @@
 ### Hi there, I'm Eric 👋
 
 ## I'm a Husband, Father and Front-end web developer!
+- 📫 Reach me at ericwpatricio@gmail.com
 - 🌱 I’m constantly learning and practicing HTML, CSS, JS, Bootstrap and SASS
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023 Goals: Become a good full stack developer.
