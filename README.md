@@ -5,7 +5,7 @@
 - 📫 Reach me at ericwpatricio@gmail.com
 - 🌱 I’m constantly learning and practicing HTML, CSS, JS, Bootstrap and SASS
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Become a good full stack developer.
+- 🥅 2024 Goals: Become a good full stack developer.
 - ⚡ Spare time: I love to play with my kids and do handyman stuff around the house.
 
 ### Connect with me:
